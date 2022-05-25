@@ -1,0 +1,4 @@
+ALFKI  Alfredo Futterkiste            Obere Str. 57                  Berlín
+ANATR  Ana Trujillo Emparedados       Avda. de la Constitución 2222  México D.F.
+BLONP  Blondel père et fils           24, place Kléber               Estrasburgo
+BOLID  Bolido Comidas preparadas      C/ Araquil, 67                 Madrid
