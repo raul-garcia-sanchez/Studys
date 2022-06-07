@@ -1,0 +1,13 @@
+1#Rauliko#1#98#
+2#Rauliko#3#100#
+3#Rauliko#1#103#
+4#Rauliko#2#105#
+5#Rauliko#3#106#
+6#Rauliko#1#98#
+7#Rauliko#2#98#
+8#Rauliko#3#100#
+9#Ivan#3#103#
+10#Kevin#1#100#
+11#Kevin#1#96#
+12#Kevin#1#100#
+13#Kevin#1#105#
