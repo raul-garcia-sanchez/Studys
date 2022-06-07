@@ -1,0 +1,3 @@
+nombre:pepito!dni:44444444F!clasificacion:21!puntuaciones:12,23,34,45
+puntuaciones:12,76!dni:55555555G!clasificacion:29!nombre:andres
+clasificacion:2!nombre:juliana!puntuaciones:3,5,78!dni:66666666T

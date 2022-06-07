@@ -1,0 +1,5 @@
+{
+44444444F:{nombre:pepito,puntuaciones:[12,23,34,45],clasificacion:21}
+55555555G:{nombre:andres,puntuaciones:[12,76],clasificacion:29}
+66666666T:{nombre:juliana,puntuaciones:[3,5,78],clasificacion:2}
+}
